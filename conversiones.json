@@ -1,0 +1,29 @@
+[
+  {
+    "fecha": "2024-07-04 13:45:21",
+    "monedaOrigen": "MXN",
+    "resultados": {
+      "EUR": "51.02 EUR",
+      "USD": "55.00 USD"
+    },
+    "cantidad": 1000.0
+  },
+  {
+    "fecha": "2024-07-04 13:45:24",
+    "monedaOrigen": "USD",
+    "resultados": {
+      "MXN": "9090.10 MXN",
+      "EUR": "463.75 EUR"
+    },
+    "cantidad": 500.0
+  },
+  {
+    "fecha": "2024-07-04 13:45:27",
+    "monedaOrigen": "EUR",
+    "resultados": {
+      "MXN": "1960.13 MXN",
+      "USD": "107.82 USD"
+    },
+    "cantidad": 100.0
+  }
+]
